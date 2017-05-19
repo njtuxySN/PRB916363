@@ -33,7 +33,7 @@
         <foreign_database/>
         <internal_type display_value="String">string</internal_type>
         <mandatory>false</mandatory>
-        <max_length>40</max_length>
+        <max_length>50</max_length>
         <name>x_prb916363_test001</name>
         <next_element/>
         <primary>false</primary>
@@ -53,14 +53,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-05-19 21:16:36</sys_created_on>
         <sys_id>897c23ce6532320077553d19bca90510</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>name</sys_name>
         <sys_package display_value="PRB916363" source="x_prb916363">c16ceb8e6532320077553d19bca905ea</sys_package>
         <sys_policy/>
         <sys_scope display_value="PRB916363">c16ceb8e6532320077553d19bca905ea</sys_scope>
         <sys_update_name>sys_dictionary_x_prb916363_test001_name</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-05-19 21:16:36</sys_updated_on>
+        <sys_updated_by>acme.employee</sys_updated_by>
+        <sys_updated_on>2017-05-19 21:39:53</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
